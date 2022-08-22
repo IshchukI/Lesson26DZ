@@ -14,7 +14,7 @@ with io.open("Readme.md", encoding="utf-8") as f:
 
 def main():
     setup(
-        name='jira-ithillel-pageobject',
+        name='jira_ithillel_pageobject',
         version='1.0',
         description='My Package Description',
         long_description=long_description,
